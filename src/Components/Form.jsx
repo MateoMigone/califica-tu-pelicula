@@ -39,7 +39,7 @@ const Form = () => {
           gap: "10px",
         }}
       >
-        <label>Nombre de review</label>
+        <label>Nombre de usuario</label>
         <input
           type="text"
           value={review.nombre}
